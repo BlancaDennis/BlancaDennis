@@ -6,6 +6,9 @@ I trained as a Front End Developer at Laboratoria💛 and the best thing I learn
 ✨In design, people & tech I trust.✨
 
 
+
+
+
 👩🏻‍💻 I’m currently learning and fall in love with react.
 
 🔮 How to find me: https://www.linkedin.com/in/blancadennislopez/
