@@ -1,5 +1,5 @@
 ### Blanca Dennis López López
-Front End Developer || Graphic designer || Facilitator #IamRemarkable 
+Front End Developer & Graphic designer 
 
 I trained as a Front End Developer at Laboratoria💛 and the best thing I learned from the bootcamp is that I can learn anything. My passion for designing led me to do web development that gave the life I wanted to my designs and interfaces, a fan of the result and interactivity by mixing both areas.
 
