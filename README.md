@@ -7,13 +7,14 @@ I trained as a Front End Developer at Laboratoria💛 and the best thing I learn
 
 *In design, people & tech I trust*  ✨
 
-
-
+------------
 
 
 👩🏻‍💻 I’m currently learning and fall in love with react.
 
 🔮 How to find me: https://www.linkedin.com/in/blancadennislopez/
+
+------------
 
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=blancadennis&show_icons=true&theme=gotham%22%20alt=%22blancadennis" alt="blancadennis" />
