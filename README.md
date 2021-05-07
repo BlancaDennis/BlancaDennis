@@ -12,7 +12,7 @@ I trained as a Front End Developer at Laboratoria💛 and the best thing I learn
 
 👩🏻‍💻 I’m currently learning and fall in love with react.
 
-🔮 How to find me:  [Linkedin: BlancaDennisLopez](https://www.linkedin.com/in/blancadennislopez/)
+🔮 How to find me:  [Linkedin: Blanca Dennis Lopez](https://www.linkedin.com/in/blancadennislopez/)
 
 ------------
 
